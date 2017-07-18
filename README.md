@@ -1,4 +1,4 @@
-#CMD NODE
+CMD NODE
 
 Before start you must have to install the node dependencies running '$ npm install'
 
